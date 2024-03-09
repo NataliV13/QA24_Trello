@@ -12,7 +12,6 @@ public class Selectors {
         driver = new ChromeDriver();
         driver.get("https://trello.com/");
 
-
     }
 
 
